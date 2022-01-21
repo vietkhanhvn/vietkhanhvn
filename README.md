@@ -9,7 +9,7 @@
 <p><a href="https://www.buymeacoffee.com/vietkhanhvn"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vietkhanhvn" /></a></p><br><br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ngocminhvn&show_icons=true&locale=en&layout=compact" alt="vietkhanhvn" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vietkhanhvn&show_icons=true&locale=en&layout=compact" alt="vietkhanhvn" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ngocminhvn&show_icons=true&locale=en" alt="vietkhanhvn" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=vietkhanhvn&show_icons=true&locale=en" alt="vietkhanhvn" /></p>
 
